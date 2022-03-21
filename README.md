@@ -1,5 +1,9 @@
 # Cities API
 
+## Descrição
+Desenvolver uma API Rest de consulta de cidades do Brasil com dados comparativos. 
+Navegar pelas boas práticas de Java e do Spring, popular o bando de dados Postgres e criar um serviço para o cálculo de distância entre cidades.
+
 ![ENV Funcionando OK](https://github.com/alvaroaltair/cities-api/blob/master/cities-api.gif)
 
 ## Requirements
@@ -115,3 +119,5 @@ select earth_distance(
 ```shell script
 wget https://raw.githubusercontent.com/checkstyle/checkstyle/master/src/main/resources/google_checks.xml
 ```
+
+## Tutor: André Gomes
