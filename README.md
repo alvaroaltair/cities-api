@@ -1,6 +1,8 @@
 # Cities API
 
-## Descrição: Desenvolver uma API Rest de consulta de cidades do Brasil com dados comparativos.
+## Descrição: 
+## Desenvolver uma API Rest de consulta de cidades do Brasil com dados comparativos.
+
 * Navegar pelas boas práticas de Java e do Spring
 * Popular o Bando de Dados Postgres e criar um serviço para o cálculo de distância entre cidades.
 
