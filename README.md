@@ -1,4 +1,4 @@
-# Cities API - Descrição: 
+# Cities API
 ## Desenvolver uma API Rest de consulta de cidades do Brasil com dados comparativos.
 
 * Navegar pelas boas práticas de Java e do Spring
