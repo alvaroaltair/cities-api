@@ -1,7 +1,8 @@
 # Cities API
 
 ## Descrição: Desenvolver uma API Rest de consulta de cidades do Brasil com dados comparativos.
-Navegar pelas boas práticas de Java e do Spring, popular o bando de dados Postgres e criar um serviço para o cálculo de distância entre cidades.
+* Navegar pelas boas práticas de Java e do Spring
+* Popular o Bando de Dados Postgres e criar um serviço para o cálculo de distância entre cidades.
 
 ### Exemplo:
 * [Calcular a distancia entre Curitiba e Florianópolis: (2878 Curitiba / 4500 Florianópolis)]
