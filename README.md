@@ -11,7 +11,7 @@
 ```shell script
 https://shielded-lowlands-73520.herokuapp.com/distances/by-cube?from=2878&to=4500
 ```
-![ENV Funcionando OK](https://github.com/alvaroaltair/cities-api/blob/master/distancia.gif)
+![ENV Funcionando OK](https://github.com/alvaroaltair/cities-api/blob/master/distancia.GIF)
 
 ![ENV Funcionando OK](https://github.com/alvaroaltair/cities-api/blob/master/cities-api.gif)
 
