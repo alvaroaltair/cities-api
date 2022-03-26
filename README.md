@@ -1,4 +1,17 @@
 # Cities API
+## Desenvolver uma API Rest de consulta de cidades do Brasil com dados comparativos.
+
+* Navegar pelas boas práticas de Java e do Spring
+* Popular o Bando de Dados Postgres e criar um serviço para o cálculo de distância entre cidades.
+
+### Exemplo:
+* [Calcular a distancia entre Curitiba e Florianópolis: (2878 Curitiba / 4500 Florianópolis)]
+* (https://shielded-lowlands-73520.herokuapp.com/distances/by-cube?from=2878&to=4500)
+
+```shell script
+https://shielded-lowlands-73520.herokuapp.com/distances/by-cube?from=2878&to=4500
+```
+![ENV Funcionando OK](https://github.com/alvaroaltair/cities-api/blob/master/distancia.GIF)
 
 ![ENV Funcionando OK](https://github.com/alvaroaltair/cities-api/blob/master/cities-api.gif)
 
@@ -115,3 +128,6 @@ select earth_distance(
 ```shell script
 wget https://raw.githubusercontent.com/checkstyle/checkstyle/master/src/main/resources/google_checks.xml
 ```
+
+
+* Tutor: André Gomes
